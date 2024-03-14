@@ -1,0 +1,1001 @@
+states,citites,link1_clicked,link1_converted,link2_clicked,link2_converted,link3_clicked,link3_converted,link4_clicked,link4_converted
+North Dakota,Port St. Lucie,False,False,True,True,False,False,True,False
+Colorado,Waterbury,False,False,True,False,True,True,True,True
+Mississippi,Denton,True,True,False,False,True,False,False,False
+Alaska,Savannah,False,False,False,False,False,False,False,False
+Ohio,Dallas,False,False,True,True,False,False,True,True
+Maine,Pueblo,True,True,False,False,True,True,False,False
+New York,Broken Arrow,False,False,False,False,True,False,False,False
+Arkansas,Olathe,True,False,False,False,True,True,False,False
+Idaho,West Covina,False,False,False,False,False,False,False,False
+Wyoming,Miami,True,False,True,True,True,True,False,False
+New Mexico,North Las Vegas,False,False,False,False,False,False,False,False
+Pennsylvania,Portland,True,False,False,False,True,False,False,False
+Ohio,Stanley,False,False,True,True,True,False,False,False
+Arizona,Cedar Hill,True,True,True,False,True,False,False,False
+Virginia,West Palm Beach,False,False,False,False,False,False,True,True
+Wyoming,Boston,False,False,True,True,False,False,False,False
+Arizona,West Covina,True,False,True,False,False,False,False,False
+Wisconsin,Greeley,True,False,False,False,False,False,True,False
+Massachusetts,Seagoville,False,False,False,False,True,True,False,False
+Montana,Visalia,True,False,True,True,False,False,False,False
+South Dakota,Fairfield,True,True,True,False,False,False,True,False
+Wyoming,El Paso,True,True,True,True,True,True,False,False
+Alaska,Providence,False,False,True,False,False,False,False,False
+Kansas,Inglewood,True,True,False,False,True,True,True,True
+Georgia,Phoenix,True,True,False,False,False,False,True,False
+Idaho,San Mateo,False,False,False,False,False,False,False,False
+Utah,Las Cruces,False,False,False,False,True,False,True,True
+California,Bozeman,True,False,True,False,False,False,False,False
+Mississippi,Richmond,False,False,True,True,False,False,False,False
+Virginia,Stockton,True,True,True,True,False,False,True,False
+California,Cary,True,False,False,False,True,True,False,False
+Arkansas,Hartford,False,False,True,False,False,False,True,False
+Vermont,Fresno,False,False,False,False,True,True,False,False
+North Dakota,Mesquite,False,False,True,True,False,False,False,False
+Alaska,Fairfield,False,False,False,False,False,False,True,True
+Mississippi,Athens,True,True,False,False,True,False,False,False
+Connecticut,Laredo,True,False,False,False,False,False,True,True
+Kansas,Palm Bay,False,False,True,True,True,True,False,False
+Vermont,Baltimore,False,False,True,False,False,False,True,False
+Louisiana,Torrance,False,False,True,True,True,True,True,False
+North Dakota,Baton Rouge,True,False,True,False,False,False,False,False
+West Virginia,Bueblo,False,False,True,False,True,False,False,False
+Mississippi,Grapevine,True,True,True,False,False,False,True,False
+New Hampshire,Roanoke,True,True,False,False,False,False,True,False
+Georgia,Moreno Valley,False,False,False,False,False,False,False,False
+Nevada,Topeka,True,False,False,False,True,True,False,False
+West Virginia,Round Rock,False,False,False,False,True,False,True,True
+South Dakota,Waco,False,False,True,False,False,False,False,False
+Connecticut,Chicago,True,True,False,False,False,False,False,False
+Tennessee,San Jose,False,False,True,False,False,False,False,False
+Montana,Mcallen,False,False,True,True,True,False,True,False
+South Dakota,New Orleans,True,True,True,False,False,False,True,False
+Wisconsin,Great Falls,True,True,True,True,False,False,True,False
+Ohio,Beaumont,True,True,False,False,False,False,False,False
+Oklahoma,Birmingham,False,False,True,False,False,False,False,False
+Washington,Flint,True,False,True,False,True,False,True,True
+Iowa,San Antonio,False,False,True,False,True,False,False,False
+Indiana,San Jose,False,False,True,True,True,True,True,True
+California,San Jose,False,False,False,False,True,False,False,False
+Kentucky,Los Angeles,True,False,False,False,False,False,False,False
+New York,Montgomery,True,True,True,False,False,False,True,False
+Vermont,Madison,False,False,True,True,False,False,True,False
+Oregon,Cambridge,False,False,True,False,True,True,False,False
+Arizona,Garden Grove,True,False,True,False,False,False,True,True
+California,Fresno,True,False,False,False,False,False,True,True
+Connecticut,Savannah,False,False,True,False,True,False,False,False
+New York,New Haven,False,False,True,False,True,False,False,False
+Kansas,Port St. Lucie,True,False,True,True,True,False,True,True
+Alaska,Pueblo,True,True,True,False,True,False,False,False
+Nevada,Elk Grove,True,False,True,True,True,True,True,True
+Arkansas,New York,True,False,False,False,False,False,True,False
+West Virginia,Milwaukee,False,False,False,False,False,False,True,False
+Alabama,Norman,False,False,False,False,True,False,True,True
+Missouri,Westminster,True,True,False,False,True,True,False,False
+Utah,St. Petersburg,True,True,True,True,False,False,False,False
+Massachusetts,Grand Prairie,True,False,True,False,True,False,False,False
+Colorado,Bueblo,True,True,False,False,False,False,True,True
+Minnesota,Rialto,False,False,False,False,False,False,False,False
+North Carolina,Daly City,False,False,False,False,False,False,False,False
+Pennsylvania,High Point,True,False,False,False,True,False,False,False
+South Carolina,Downey,True,False,True,True,False,False,False,False
+California,Billings,True,False,False,False,False,False,False,False
+Oklahoma,Corpus Christi,True,False,True,False,False,False,False,False
+North Dakota,Norwalk,False,False,False,False,False,False,False,False
+Wisconsin,Belen,True,True,False,False,True,True,False,False
+West Virginia,Knoxville,False,False,False,False,False,False,False,False
+Connecticut,Tempe,False,False,True,False,False,False,False,False
+Minnesota,Elko,True,False,False,False,False,False,False,False
+Michigan,Worcester,False,False,True,True,True,False,True,True
+Oklahoma,Cleveland,False,False,False,False,True,False,True,True
+Tennessee,San Antonio,False,False,False,False,True,True,True,False
+Delaware,Shelby,True,False,True,True,False,False,False,False
+Rhode Island,Daly City,True,True,True,True,True,True,True,True
+Indiana,Thousand Oaks,True,True,False,False,True,True,False,False
+Colorado,North Las Vegas,True,False,False,False,False,False,True,False
+New Mexico,Iowa Park,False,False,False,False,True,True,False,False
+Delaware,Yakima,False,False,False,False,False,False,True,False
+Texas,Chesapeake,False,False,True,False,True,False,True,False
+Indiana,Hollywood,False,False,False,False,False,False,False,False
+Pennsylvania,Fullerton,False,False,False,False,True,True,True,False
+Michigan,York,True,False,True,False,True,True,False,False
+New Hampshire,Anaheim,False,False,False,False,False,False,True,True
+Maryland,Glendale,True,True,False,False,True,False,True,False
+Rhode Island,Huntington Beach,False,False,True,False,True,True,True,True
+Maryland,Norman,False,False,True,False,False,False,False,False
+Delaware,Fort Lauderdale,False,False,False,False,False,False,False,False
+Michigan,Everett,True,False,True,False,True,False,False,False
+Delaware,Lexington,True,False,True,True,True,True,False,False
+Massachusetts,West Jordan,False,False,True,False,True,True,False,False
+Nebraska,Detroit,True,False,False,False,True,False,False,False
+Idaho,Stanley,False,False,True,False,False,False,True,False
+North Carolina,Grand Prairie,True,False,True,True,False,False,True,True
+Virginia,Allen,True,True,True,True,True,True,True,True
+Alaska,Tulsa,False,False,True,True,False,False,True,False
+Minnesota,Rancho Cucamonga,False,False,True,True,False,False,True,False
+Louisiana,Waxahachie,True,False,False,False,False,False,False,False
+Massachusetts,Jacksonville,False,False,True,False,False,False,False,False
+Hawaii,Greensboro,True,True,True,True,True,False,False,False
+Mississippi,San Antonio,False,False,False,False,False,False,True,False
+Hawaii,Chattanooga,False,False,True,False,True,True,False,False
+Alabama,Henderson,False,False,False,False,True,False,True,True
+Mississippi,Mckinney,False,False,True,True,False,False,False,False
+Colorado,Seagoville,True,False,False,False,True,True,False,False
+Connecticut,Hampton,False,False,False,False,False,False,True,False
+Nevada,Oxnard,True,False,True,True,False,False,False,False
+Virginia,St. Petersburg,False,False,False,False,True,True,True,False
+Missouri,Cincinnati,True,True,True,True,False,False,False,False
+New York,Cedar Rapids,False,False,False,False,False,False,False,False
+Missouri,Amarillo,False,False,True,False,True,True,False,False
+Nevada,Vallejo,False,False,False,False,False,False,False,False
+New York,Roseville,False,False,False,False,True,True,True,True
+North Carolina,Cary,True,True,False,False,False,False,True,True
+Rhode Island,Hialeah,False,False,False,False,False,False,False,False
+Idaho,Grand Rapids,True,True,False,False,True,False,True,True
+Rhode Island,Toledo,False,False,True,True,False,False,False,False
+Maine,Los Lunas,False,False,False,False,False,False,True,False
+Iowa,Escondido,True,False,False,False,False,False,True,True
+Idaho,Durham,False,False,True,True,False,False,False,False
+Tennessee,Dumas,False,False,False,False,True,False,True,False
+Arkansas,Ennis,False,False,True,False,False,False,True,False
+Indiana,Eureka,False,False,True,True,True,True,False,False
+Ohio,Murfreesboro,False,False,False,False,False,False,False,False
+Florida,Santa Ana,False,False,True,True,False,False,False,False
+South Dakota,Visalia,True,True,True,False,True,False,False,False
+Michigan,Scottsdale,True,False,False,False,False,False,False,False
+Utah,Gresham,False,False,False,False,True,True,True,False
+Ohio,Arvada,True,True,True,False,True,False,True,True
+Michigan,Irving,True,False,False,False,True,False,True,False
+Ohio,Augusta,True,False,False,False,False,False,True,False
+New Mexico,Indianapolis,True,True,True,True,False,False,True,False
+Louisiana,Burkburnett,False,False,False,False,False,False,False,False
+Wisconsin,Vallejo,True,True,False,False,True,False,False,False
+Nebraska,Grand Rapids,False,False,False,False,False,False,True,True
+Louisiana,Woodbridge,True,True,False,False,True,False,False,False
+Oregon,Madison,False,False,True,True,True,False,True,False
+Mississippi,Waco,True,False,True,False,False,False,False,False
+North Carolina,Denver,False,False,False,False,True,False,False,False
+Wyoming,Antioch,False,False,True,True,False,False,True,True
+Vermont,Tempe,True,False,True,False,False,False,False,False
+Alaska,Peoria,False,False,False,False,False,False,True,True
+Tennessee,Mcallen,True,True,False,False,False,False,False,False
+Washington,Rancho Cucamonga,False,False,False,False,False,False,True,True
+Illinois,Sterling Heights,True,False,True,False,True,True,False,False
+Nevada,Baltimore,True,True,True,False,True,False,False,False
+Montana,Lewiston,True,False,True,True,True,True,False,False
+Kentucky,Evansville,True,True,True,True,False,False,True,True
+Kentucky,Mcallen,False,False,True,False,False,False,False,False
+Alabama,Lancaster,False,False,False,False,True,True,True,True
+Ohio,Madison,True,True,True,False,True,False,True,False
+Illinois,Spokane,False,False,True,False,False,False,True,False
+Alabama,San Bernardino,True,True,True,True,True,True,False,False
+Oklahoma,Akron,False,False,False,False,True,False,False,False
+Maryland,Surrey,False,False,True,True,True,True,False,False
+North Carolina,Helena,False,False,True,False,True,False,True,False
+Maryland,Manchester,True,False,False,False,False,False,True,False
+New Jersey,San Bernardino,True,False,True,False,True,True,True,True
+Iowa,Miami Gardens,True,False,False,False,False,False,True,True
+Illinois,Fresno,True,True,False,False,False,False,True,False
+Tennessee,Bakersfield,False,False,False,False,False,False,False,False
+Florida,Amarillo,True,True,False,False,False,False,True,True
+Texas,Allentown,False,False,True,False,True,False,True,False
+Alaska,Hialeah,True,True,False,False,True,True,False,False
+Delaware,Shiloh,True,False,False,False,True,False,True,False
+Alabama,Helena,False,False,False,False,False,False,True,True
+Illinois,Beaumont,False,False,True,False,True,False,False,False
+Florida,Kent,False,False,True,True,True,False,False,False
+West Virginia,Greensboro,False,False,True,False,False,False,True,False
+Pennsylvania,Erie,True,True,False,False,False,False,False,False
+South Carolina,Lubbock,False,False,False,False,True,False,True,True
+New Jersey,Shiloh,False,False,False,False,True,True,True,True
+Nevada,Downey,False,False,False,False,False,False,True,False
+Michigan,Las Vegas,False,False,False,False,True,True,False,False
+Rhode Island,Naperville,True,True,True,False,False,False,False,False
+Nebraska,Lowell,False,False,False,False,True,True,True,False
+West Virginia,Scurry,False,False,True,True,False,False,True,False
+Mississippi,Boise,True,False,False,False,False,False,False,False
+New Hampshire,Laredo,True,False,True,True,False,False,True,False
+Wyoming,Los Angeles,True,True,True,False,True,False,True,True
+Rhode Island,College Station,True,False,False,False,True,False,False,False
+Nevada,Denver,True,True,True,False,False,False,True,False
+Alaska,Virginia Beach,True,True,True,True,True,True,True,False
+Utah,Louisville,True,False,True,False,True,False,True,False
+Colorado,Knoxville,True,True,True,False,True,False,True,False
+New York,Spokane,False,False,True,True,True,True,True,True
+Mississippi,Louisville,False,False,False,False,True,False,False,False
+Louisiana,Moreno Valley,False,False,False,False,False,False,False,False
+Alaska,Escondido,False,False,True,True,True,True,False,False
+West Virginia,Fullerton,True,False,True,True,True,True,True,False
+Virginia,Helena,False,False,True,False,False,False,False,False
+Kansas,Overland Park,True,True,False,False,False,False,True,True
+Connecticut,Belen,True,False,True,True,True,True,False,False
+West Virginia,Nashville,True,False,True,True,True,True,True,True
+Colorado,Farmers Branch,True,True,True,True,False,False,True,True
+Louisiana,San Diego,False,False,False,False,False,False,False,False
+Missouri,Warren,True,False,False,False,False,False,False,False
+Arizona,Springfield,False,False,True,False,True,False,False,False
+Washington,Murfreesboro,True,True,False,False,True,False,True,True
+Missouri,Naperville,True,True,False,False,False,False,True,True
+North Carolina,Fremont,False,False,True,True,True,True,True,False
+Mississippi,Kent,False,False,True,True,False,False,True,True
+Alabama,Clarksville,False,False,False,False,True,True,False,False
+Georgia,Phoenix,False,False,True,True,False,False,False,False
+Hawaii,North Las Vegas,True,True,True,True,False,False,True,True
+New Hampshire,Red Oak,True,False,False,False,False,False,False,False
+Kansas,Tucson,True,False,False,False,True,True,False,False
+Kentucky,Chula Vista,True,False,True,True,True,False,True,True
+Missouri,Torrance,True,True,True,True,True,True,False,False
+Wisconsin,Gainesville,False,False,True,False,True,False,True,False
+Massachusetts,Flowermound,True,True,False,False,True,True,True,False
+Arizona,Duncanville,True,True,True,True,True,False,False,False
+Connecticut,Moscow,False,False,False,False,False,False,True,False
+Iowa,Carrollton,True,False,False,False,False,False,True,True
+Nebraska,Dayton,False,False,False,False,True,True,True,False
+California,Ann Arbor,False,False,True,False,True,True,False,False
+Mississippi,Elizabeth,True,True,True,False,False,False,False,False
+Maine,Miramar,True,True,False,False,True,True,True,False
+Montana,Ann Arbor,False,False,True,True,False,False,True,True
+Iowa,Austin,False,False,False,False,False,False,False,False
+Oregon,Hartford,False,False,False,False,False,False,False,False
+Idaho,Sacramento,False,False,False,False,False,False,False,False
+Oklahoma,Aurora,True,True,False,False,False,False,False,False
+Ohio,Lewisville,False,False,False,False,False,False,False,False
+Maine,Surrey,False,False,True,True,False,False,False,False
+Oregon,Torrance,False,False,False,False,True,False,True,False
+Connecticut,Round Rock,True,False,False,False,False,False,False,False
+South Carolina,Frederick,True,True,False,False,True,False,True,True
+Idaho,Great Falls,False,False,True,False,True,True,True,False
+Colorado,Washington,False,False,False,False,False,False,True,False
+Wisconsin,Odessa,True,True,False,False,False,False,True,True
+Oregon,Tyler,False,False,True,True,True,True,True,False
+Delaware,Coppell,False,False,True,False,True,False,False,False
+Arkansas,Billings,False,False,True,False,False,False,True,True
+New Mexico,Elko,False,False,True,True,False,False,True,True
+Maine,Palmdale,True,False,True,True,False,False,False,False
+Washington,Albuquerque,False,False,False,False,True,True,True,False
+New York,Pomona,False,False,True,False,True,True,True,False
+Connecticut,Richmond,True,True,False,False,True,False,False,False
+Alabama,Milwaukee,False,False,True,True,False,False,False,False
+Nevada,San Antonio,True,False,True,False,True,True,True,False
+Vermont,Rancho Cucamonga,True,True,True,False,False,False,False,False
+Georgia,Shelby,True,True,False,False,True,False,True,False
+Alabama,Columbia,True,True,False,False,False,False,False,False
+Missouri,Medford,False,False,False,False,False,False,True,True
+Louisiana,Washington,True,True,False,False,False,False,False,False
+North Carolina,Richardson,True,True,True,True,True,False,False,False
+Mississippi,Palm Bay,False,False,False,False,False,False,False,False
+Tennessee,Coral Springs,False,False,False,False,False,False,True,True
+Montana,Scurry,False,False,False,False,True,False,False,False
+Hawaii,Santa Rosa,False,False,True,True,False,False,True,True
+Wisconsin,Montgomery,False,False,True,True,True,False,False,False
+Florida,Midland,True,False,True,True,False,False,False,False
+Hawaii,Santa Clara,True,False,True,True,False,False,True,False
+Mississippi,Rialto,False,False,True,False,True,False,False,False
+Louisiana,Yakima,True,True,True,False,True,True,False,False
+Georgia,Garland,False,False,True,False,True,True,False,False
+Arizona,Tacoma,False,False,False,False,True,False,True,False
+Virginia,Philadelphia,True,False,False,False,True,False,False,False
+Kansas,Boise,False,False,True,False,False,False,False,False
+Vermont,Norfolk,False,False,False,False,False,False,False,False
+North Carolina,Seattle,True,False,False,False,False,False,True,False
+Colorado,Peoria,False,False,True,False,True,True,True,True
+Kentucky,Torrance,True,True,False,False,True,False,True,False
+South Dakota,Rochmond,False,False,True,True,False,False,True,False
+Illinois,Bueblo,False,False,True,True,True,True,True,False
+Tennessee,Evansville,True,True,True,True,False,False,True,True
+Michigan,Bakersfield,False,False,True,False,False,False,False,False
+Washington,Huntington Beach,False,False,True,False,False,False,True,False
+Massachusetts,Fairfield,True,True,False,False,False,False,True,False
+Delaware,Savannah,False,False,True,False,False,False,True,True
+New Mexico,Jackson,False,False,True,False,False,False,True,True
+Vermont,Norfolk,True,True,True,True,False,False,True,True
+Washington,Miami,False,False,False,False,False,False,True,True
+West Virginia,Sterling Heights,False,False,True,False,False,False,True,True
+Louisiana,South Valley,True,False,True,True,True,False,False,False
+Wisconsin,Plano,True,True,True,False,False,False,True,True
+Alaska,Mcallen,True,False,False,False,False,False,True,False
+Oklahoma,Cambridge,False,False,False,False,True,False,False,False
+Iowa,El Paso,True,False,False,False,False,False,True,False
+Ohio,Aubrey,False,False,False,False,False,False,True,True
+Alaska,San Jose,False,False,False,False,True,True,True,False
+Massachusetts,Hialeah,False,False,True,True,False,False,False,False
+Kentucky,Madison,False,False,True,True,False,False,False,False
+North Dakota,Yakima,False,False,False,False,False,False,False,False
+Rhode Island,Erie,True,False,False,False,True,False,False,False
+Iowa,Oxnard,False,False,True,True,False,False,False,False
+Kansas,Coppell,True,False,True,False,True,False,True,False
+Wyoming,Durham,False,False,False,False,False,False,False,False
+New Mexico,Minneapolis,True,False,False,False,True,True,False,False
+Georgia,Daly City,False,False,True,True,False,False,True,True
+Mississippi,Thornton,False,False,True,True,True,False,True,False
+West Virginia,Vancouver,False,False,False,False,False,False,True,True
+Arkansas,Steilacoom,True,False,True,False,True,False,False,False
+New Jersey,Fresno,False,False,False,False,False,False,False,False
+North Dakota,Shiloh,False,False,False,False,False,False,False,False
+Washington,Columbia,False,False,True,False,True,False,False,False
+Florida,Bozeman,True,False,False,False,True,False,True,True
+Nebraska,Huntington Beach,False,False,True,False,False,False,True,False
+Alaska,Hamsburg,True,False,False,False,True,True,True,False
+Maryland,Mesquite,False,False,True,True,False,False,True,True
+Rhode Island,Fullerton,True,False,False,False,True,True,False,False
+Wisconsin,North Valley,True,False,True,False,False,False,True,True
+Georgia,Roseburg,True,False,True,False,False,False,False,False
+Massachusetts,Akron,True,False,True,False,True,False,False,False
+North Carolina,Murfreesboro,False,False,False,False,False,False,False,False
+South Carolina,Eugene,False,False,True,False,False,False,True,True
+Wyoming,San Francisco,True,True,False,False,True,False,False,False
+Utah,Anchorage,False,False,True,False,True,False,False,False
+California,Scurry,False,False,False,False,False,False,False,False
+Georgia,Chesapeake,True,False,False,False,True,False,False,False
+Minnesota,Inglewood,False,False,True,False,True,False,True,True
+Oklahoma,Los Angeles,False,False,True,False,False,False,True,True
+Texas,Fort Collins,False,False,True,False,True,False,True,True
+Ohio,Ontario,True,True,True,True,False,False,True,True
+Utah,Mobile,True,False,True,True,True,False,False,False
+Connecticut,Grants Pass,True,False,True,True,True,False,False,False
+Vermont,Sunnyvale,True,False,False,False,True,False,True,False
+Maryland,Hialeah,False,False,False,False,False,False,False,False
+Wisconsin,Kansas City,False,False,True,True,False,False,False,False
+Pennsylvania,Tyler,False,False,False,False,True,False,False,False
+Alabama,High Point,False,False,True,False,True,False,False,False
+Delaware,Overland Park,True,True,False,False,False,False,True,False
+Wisconsin,Oceanside,True,False,False,False,True,False,True,True
+Delaware,Burbank,True,False,True,False,False,False,True,False
+Illinois,Fountain Valley,True,True,False,False,False,False,False,False
+Minnesota,Broken Arrow,True,True,False,False,True,False,False,False
+Arkansas,Tacoma,False,False,False,False,True,False,True,False
+Washington,Austin,False,False,False,False,True,True,False,False
+Wyoming,Edison,False,False,True,True,False,False,False,False
+Louisiana,West Covina,True,False,False,False,True,True,True,True
+Arizona,Garden Grove,True,True,True,False,True,False,False,False
+New Jersey,Waxahachie,False,False,False,False,True,False,False,False
+New Hampshire,Helena,False,False,False,False,False,False,True,False
+Iowa,Flowermound,False,False,False,False,False,False,True,True
+Oklahoma,Elizabeth,True,False,False,False,True,True,True,True
+Maryland,West Valley City,False,False,False,False,True,False,False,False
+New Mexico,Round Rock,True,False,True,True,True,False,True,False
+Missouri,Steilacoom,False,False,True,False,False,False,True,False
+Arkansas,Stanley,False,False,True,False,False,False,True,True
+Michigan,Phoenix,False,False,False,False,True,False,False,False
+Ohio,Lousville,True,True,True,False,False,False,True,True
+Arizona,Newark,False,False,True,True,False,False,False,False
+Tennessee,Grants Pass,True,False,True,True,True,False,False,False
+North Dakota,Fayetteville,True,True,True,False,False,False,False,False
+Washington,Philadelphia,True,True,True,True,True,False,True,False
+West Virginia,San Mateo,True,True,False,False,False,False,True,False
+California,Port St. Lucie,False,False,False,False,True,False,True,True
+Pennsylvania,Tacoma,True,False,True,False,False,False,True,False
+Montana,Des Moines,False,False,False,False,True,False,True,False
+Iowa,Broken Arrow,True,True,True,True,False,False,False,False
+Virginia,Durham,True,False,True,True,False,False,False,False
+Kentucky,Yonkers,True,True,False,False,False,False,True,True
+Iowa,Fayetteville,False,False,False,False,True,False,False,False
+North Carolina,Centennial,True,False,True,True,True,True,True,True
+Utah,Scurry,True,True,True,False,False,False,False,False
+Wyoming,Savannah,False,False,False,False,True,True,True,True
+New York,Long Beach,True,True,True,True,True,False,False,False
+New Jersey,Coral Springs,True,False,True,False,True,False,True,False
+Arkansas,Pittsburgh,False,False,False,False,True,False,True,True
+Alabama,Topeka,True,False,False,False,False,False,True,True
+Rhode Island,Norfolk,False,False,True,False,True,False,True,False
+Rhode Island,Milwaukee,False,False,False,False,True,True,True,True
+Colorado,Rialto,False,False,False,False,False,False,True,False
+Tennessee,Lakewood,False,False,False,False,False,False,False,False
+New Jersey,Reno,True,True,True,False,False,False,True,True
+Utah,Sunnyvale,False,False,True,True,False,False,True,True
+Louisiana,Milwaukee,True,True,True,False,True,False,True,True
+Massachusetts,Hamsburg,False,False,True,False,True,False,True,False
+Maryland,Great Falls,False,False,True,True,False,False,True,True
+Colorado,El Paso,True,False,False,False,False,False,False,False
+Oklahoma,Steilacoom,False,False,True,True,True,False,False,False
+Oklahoma,Durham,False,False,True,True,False,False,True,False
+South Carolina,Worcester,True,False,False,False,False,False,False,False
+Nebraska,Duncanville,True,False,False,False,False,False,False,False
+Oklahoma,Shreveport,True,True,True,False,False,False,False,False
+South Carolina,Kansas City,True,False,False,False,False,False,True,True
+Iowa,Woodbridge,True,False,False,False,True,False,False,False
+Virginia,Abilene,False,False,True,False,True,False,False,False
+New Jersey,Philadelphia,True,False,True,False,False,False,True,True
+Wyoming,Nashville,True,True,False,False,True,False,False,False
+South Dakota,St. Petersburg,False,False,True,True,False,False,False,False
+Arkansas,Lowell,True,False,False,False,False,False,False,False
+Kansas,San Diego,True,True,True,True,True,True,True,False
+Georgia,Pompano Beach,False,False,True,True,False,False,False,False
+Louisiana,El Paso,False,False,True,False,False,False,True,False
+North Dakota,Grants Pass,True,True,False,False,False,False,False,False
+Vermont,Raleigh,False,False,True,False,True,False,False,False
+Indiana,Salt Lake City,True,False,False,False,False,False,True,False
+Georgia,Santa Maria,True,True,True,True,True,False,True,False
+California,Tampa,True,False,True,False,True,True,False,False
+Hawaii,El Paso,True,False,False,False,True,True,False,False
+Rhode Island,Orlando,False,False,True,True,False,False,False,False
+Georgia,Tulsa,True,False,False,False,False,False,False,False
+Kansas,Colorado Springs,True,True,True,False,True,False,True,False
+Colorado,San Mateo,True,False,False,False,False,False,True,True
+New Mexico,Cincinnati,False,False,True,False,True,False,False,False
+Oregon,Anna,False,False,True,False,False,False,True,True
+Wisconsin,Boulder,True,True,True,True,False,False,False,False
+Washington,Reno,True,True,True,False,False,False,False,False
+New Mexico,Port St. Lucie,True,True,False,False,False,False,True,False
+Virginia,Amarillo,False,False,True,False,True,True,True,False
+South Dakota,Philadelphia,False,False,False,False,True,False,True,False
+Wyoming,Irvine,True,False,True,True,True,False,False,False
+Wisconsin,New York,True,True,False,False,True,False,False,False
+Illinois,Rancho Cucamonga,False,False,False,False,False,False,False,False
+Missouri,Coral Springs,True,True,False,False,False,False,True,True
+Nevada,Raleigh,True,True,True,False,False,False,True,False
+Minnesota,Lafayette,True,False,False,False,True,True,True,False
+Hawaii,Madison,False,False,False,False,False,False,True,False
+Tennessee,Augusta,True,True,True,True,False,False,True,False
+Delaware,Escondido,False,False,True,True,False,False,False,False
+Ohio,Simi Valley,True,True,True,False,False,False,True,True
+Alaska,Roseburg,False,False,False,False,True,True,True,True
+Michigan,North Charleston,False,False,False,False,False,False,False,False
+Nevada,Springfield,False,False,False,False,True,False,True,False
+Connecticut,Red Bluff,False,False,False,False,False,False,True,True
+Tennessee,Odessa,True,True,True,False,False,False,False,False
+Arizona,Oceanside,False,False,True,False,False,False,False,False
+Connecticut,Ennis,False,False,True,False,True,False,True,True
+West Virginia,Elgin,False,False,True,True,False,False,False,False
+Montana,Lafayette,True,False,False,False,True,True,True,False
+West Virginia,Chattanooga,False,False,False,False,False,False,True,True
+Arkansas,Roseville,False,False,True,False,False,False,False,False
+Minnesota,Addison,False,False,False,False,False,False,False,False
+Virginia,Amarillo,True,False,False,False,True,True,True,False
+Georgia,Reno,True,False,True,False,True,False,False,False
+South Dakota,Alexandria,True,True,True,True,False,False,True,True
+Tennessee,El Monte,True,True,False,False,False,False,True,False
+Tennessee,Baton Rouge,False,False,False,False,True,False,True,False
+Nevada,Bernalillo,False,False,True,True,True,True,True,True
+Alaska,Farmers Branch,True,True,True,False,True,False,False,False
+Georgia,Tyler,True,True,False,False,False,False,False,False
+Illinois,Scurry,True,True,True,True,False,False,True,True
+Louisiana,Elgin,True,True,True,False,True,False,False,False
+Utah,Gilbert,True,True,True,False,True,True,False,False
+Wyoming,Caldwell,True,False,True,False,False,False,True,False
+California,Fargo,False,False,False,False,True,False,True,True
+Kansas,Warren,False,False,True,False,True,True,False,False
+Arizona,Flowermound,True,False,True,False,False,False,False,False
+California,Milwaukee,False,False,False,False,True,False,True,True
+Pennsylvania,Temecula,True,False,True,True,True,True,False,False
+Nebraska,Jersey City,True,False,True,True,True,False,False,False
+Pennsylvania,Cambridge,False,False,False,False,True,False,False,False
+North Dakota,Aurora,True,False,False,False,True,True,False,False
+Montana,Waco,True,True,False,False,True,True,True,True
+Kansas,Garden Grove,True,True,False,False,True,False,True,True
+North Carolina,Flowermound,False,False,False,False,False,False,False,False
+Massachusetts,Dallas,False,False,True,True,False,False,True,True
+Texas,Daly City,False,False,False,False,False,False,False,False
+South Dakota,Austin,False,False,False,False,True,True,False,False
+Wisconsin,Edison,False,False,True,True,False,False,True,False
+Virginia,West Jordan,False,False,False,False,True,True,False,False
+Florida,Albuquerque,False,False,False,False,True,False,True,False
+Oklahoma,Charleston,False,False,True,False,False,False,False,False
+Oregon,Daly City,True,False,True,True,True,True,False,False
+Montana,Buffalo,False,False,False,False,False,False,False,False
+Nebraska,Everett,True,True,True,False,True,True,False,False
+Wisconsin,Houston,False,False,True,False,True,False,True,False
+Colorado,Newport News,True,True,False,False,True,True,False,False
+Wyoming,Milwaukee,False,False,False,False,True,False,True,False
+Colorado,Billings,True,True,True,False,True,False,False,False
+Oregon,Medford,True,False,True,False,True,True,True,False
+New Mexico,Akron,True,False,False,False,True,True,False,False
+Maryland,New Orleans,False,False,False,False,True,False,True,True
+Arizona,Jersey City,True,True,False,False,False,False,False,False
+Massachusetts,Red Oak,True,True,False,False,True,True,False,False
+Utah,Boise,False,False,False,False,True,True,False,False
+Arkansas,Scottsdale,True,False,True,False,False,False,False,False
+Massachusetts,Seymour,False,False,False,False,True,False,False,False
+New Mexico,Stanley,True,True,True,False,True,True,False,False
+New Hampshire,Carlsbad,True,True,True,False,False,False,True,False
+Massachusetts,Birmingham,False,False,False,False,True,False,True,False
+Iowa,Eureka,True,False,False,False,True,False,True,True
+Georgia,Tallahassee,False,False,False,False,True,False,True,False
+Maine,Hartford,False,False,False,False,True,True,False,False
+Delaware,Santa Ana,False,False,True,False,False,False,False,False
+Georgia,Anna,True,False,True,True,False,False,False,False
+Ohio,Charleston,True,False,False,False,True,True,False,False
+Maryland,Roseburg,False,False,True,False,True,False,False,False
+Oregon,Caldwell,True,False,True,False,False,False,True,False
+Kansas,Albany,True,True,False,False,True,True,False,False
+North Carolina,Allen,False,False,False,False,False,False,True,False
+Michigan,Norwalk,False,False,False,False,False,False,True,True
+Georgia,Topeka,False,False,True,True,False,False,False,False
+Connecticut,Rancho Cucamonga,True,False,True,False,False,False,False,False
+North Carolina,Paterson,True,False,True,False,True,False,True,True
+Florida,Alexandria,True,True,False,False,False,False,False,False
+Montana,Erie,True,True,True,False,True,True,False,False
+Kansas,Scottsdale,False,False,False,False,True,True,True,True
+Pennsylvania,Denver,True,True,True,True,False,False,True,False
+New York,Charleston,True,False,False,False,True,False,True,True
+Colorado,Lexington,True,True,False,False,False,False,True,False
+Minnesota,Stockton,False,False,True,True,True,True,True,False
+Virginia,Lexington,True,True,False,False,True,True,False,False
+Massachusetts,Pasadena,True,True,True,False,True,False,True,True
+Washington,Chattanooga,True,False,True,True,True,True,True,False
+Nebraska,Erie,False,False,True,False,False,False,True,False
+Mississippi,Oxnard,True,True,False,False,True,False,False,False
+Connecticut,Bozeman,False,False,False,False,True,True,True,False
+Indiana,Greeley,True,False,True,False,True,False,False,False
+Pennsylvania,Miami Gardens,False,False,True,True,False,False,True,False
+Louisiana,Louisville,False,False,True,False,False,False,True,True
+Oklahoma,Laredo,False,False,False,False,True,False,False,False
+New Mexico,Aubrey,True,False,False,False,False,False,False,False
+Illinois,Columbia,True,True,False,False,False,False,True,True
+New Mexico,Clearwater,True,False,False,False,True,True,False,False
+Nebraska,Killeen,True,True,False,False,True,True,False,False
+Idaho,San Jose,True,False,True,True,False,False,False,False
+Texas,Salem,False,False,True,True,True,False,False,False
+Oklahoma,Des Moines,False,False,False,False,False,False,False,False
+Utah,Indianapolis,True,False,True,False,True,True,False,False
+Florida,Belen,False,False,False,False,True,True,False,False
+Maryland,Utica,False,False,True,False,True,True,False,False
+New Jersey,Westminster,False,False,True,True,False,False,True,True
+Colorado,Santa Maria,False,False,True,True,True,True,False,False
+Oklahoma,Overland Park,True,True,False,False,True,True,False,False
+Maine,Lewisville,True,False,True,True,False,False,True,True
+Michigan,Saint Paul,True,True,False,False,True,False,True,True
+Texas,Pembroke Pines,False,False,True,False,False,False,False,False
+Massachusetts,San Francisco,True,True,True,False,True,True,False,False
+Oregon,Dallas,True,False,True,True,False,False,False,False
+Delaware,Chandler,True,False,True,False,True,False,False,False
+Kansas,Rio Rancho,True,False,True,False,True,True,False,False
+Alabama,Rialto,True,False,False,False,True,True,False,False
+Pennsylvania,Springfield,True,False,True,False,False,False,True,False
+Arkansas,Savannah,False,False,False,False,False,False,False,False
+Arizona,Van Alstyne,True,True,True,True,True,True,False,False
+Georgia,Ontario,False,False,False,False,True,True,False,False
+North Carolina,Grants Pass,False,False,False,False,True,False,False,False
+Wisconsin,Fontana,False,False,True,False,False,False,False,False
+Maine,Roseville,True,False,True,True,False,False,False,False
+Wisconsin,Fullerton,False,False,False,False,False,False,True,False
+Connecticut,Grand Rapids,True,False,False,False,False,False,False,False
+Massachusetts,York,False,False,False,False,True,False,False,False
+New Mexico,Santa Clara,True,True,True,False,False,False,True,False
+Missouri,Indianapolis,True,False,True,True,True,False,False,False
+Alabama,Princeton,False,False,False,False,False,False,True,False
+Mississippi,Lewiston,True,True,False,False,False,False,True,True
+California,Sunnyvale,True,True,True,False,True,True,True,True
+Pennsylvania,Cambridge,False,False,True,True,True,True,True,False
+Utah,Scurry,False,False,True,True,False,False,True,False
+Nebraska,Irving,False,False,True,True,False,False,True,False
+Arizona,Elko,True,False,True,False,False,False,False,False
+Vermont,Anaheim,True,True,True,True,False,False,False,False
+Mississippi,Greensboro,False,False,False,False,False,False,True,False
+Vermont,Sioux Falls,True,False,True,False,True,True,False,False
+Delaware,Denton,False,False,False,False,True,False,False,False
+Tennessee,Hayward,False,False,False,False,True,False,False,False
+Hawaii,Oceanside,True,False,False,False,True,True,False,False
+Indiana,Lewiston,True,False,True,False,True,True,False,False
+Indiana,Surrey,False,False,False,False,False,False,True,True
+Iowa,Little Rock,False,False,False,False,True,True,True,True
+Maine,Toledo,True,False,True,False,False,False,False,False
+Arizona,Medford,False,False,True,False,False,False,True,True
+Oklahoma,El Cajon,True,True,False,False,True,False,False,False
+Wisconsin,Norwalk,False,False,False,False,True,False,False,False
+Massachusetts,Columbus,True,True,True,False,False,False,True,True
+Idaho,Erie,False,False,False,False,False,False,False,False
+Idaho,Richardson,False,False,False,False,True,True,False,False
+Wisconsin,Huntsville,False,False,False,False,False,False,True,True
+Nebraska,Portland,False,False,True,True,False,False,True,False
+Kansas,Sterling Heights,True,True,False,False,True,True,True,False
+Illinois,Waco,True,False,False,False,False,False,False,False
+Arkansas,Plano,False,False,False,False,True,False,True,True
+New Hampshire,Edgewood,True,True,False,False,True,False,False,False
+New Mexico,Norfolk,False,False,False,False,False,False,True,False
+Virginia,Surprise,False,False,False,False,True,True,True,False
+California,Hialeah,False,False,False,False,True,False,False,False
+Delaware,Saint Paul,True,False,True,False,False,False,False,False
+New Jersey,Savannah,False,False,False,False,False,False,True,False
+Massachusetts,Kent,True,False,False,False,True,False,True,False
+Indiana,St. Louis,True,False,True,True,True,False,False,False
+Michigan,Daly City,True,True,True,True,False,False,True,False
+Arkansas,Princeton,True,False,True,False,True,True,False,False
+Kansas,Portland,True,True,True,False,False,False,False,False
+Wyoming,Rochmond,True,True,False,False,False,False,False,False
+Illinois,Athens,False,False,False,False,True,False,True,True
+South Dakota,Shreveport,True,False,False,False,False,False,False,False
+Virginia,South Valley,False,False,False,False,True,True,True,False
+Wisconsin,Chula Vista,False,False,False,False,True,False,True,True
+Mississippi,Evansville,False,False,False,False,False,False,False,False
+South Carolina,Naperville,False,False,True,True,False,False,True,False
+South Dakota,Newark,True,True,False,False,True,True,True,True
+Wyoming,Madison,True,True,True,False,True,False,True,True
+Texas,Victorville,False,False,True,True,True,True,False,False
+Wisconsin,Hartford,False,False,False,False,True,True,False,False
+California,Stanley,True,True,False,False,True,True,False,False
+California,Anchorage,True,False,True,True,True,True,True,False
+North Carolina,Durham,False,False,False,False,True,False,True,True
+Missouri,Allentown,False,False,True,False,False,False,True,False
+Idaho,Allen,True,True,False,False,True,False,True,True
+West Virginia,Santa Clarita,True,False,False,False,False,False,False,False
+Colorado,San Diego,True,False,False,False,False,False,False,False
+Minnesota,Red Oak,True,True,True,True,False,False,False,False
+Colorado,Ventura,False,False,False,False,False,False,True,True
+Arizona,Fort Lauderdale,True,False,True,False,False,False,True,True
+Virginia,Montgomery,False,False,True,True,True,True,False,False
+Minnesota,Nashville,False,False,True,False,True,True,True,False
+Michigan,Abilene,False,False,False,False,False,False,True,False
+Vermont,Celina,True,False,False,False,False,False,False,False
+Connecticut,Vallejo,True,False,False,False,True,False,True,False
+Illinois,Pueblo,True,True,False,False,True,True,True,False
+Colorado,Pittsburgh,False,False,True,True,True,True,False,False
+Nebraska,Winston–Salem,True,False,True,True,False,False,False,False
+Florida,Seymour,False,False,False,False,False,False,False,False
+Mississippi,Stamford,True,False,False,False,False,False,True,True
+Utah,Lowell,False,False,False,False,False,False,False,False
+West Virginia,New Orleans,True,True,True,True,True,False,False,False
+Alabama,Little Rock,False,False,False,False,True,True,False,False
+Georgia,Fountain Valley,True,False,True,True,True,True,True,False
+Alabama,Bakersfield,True,True,False,False,False,False,False,False
+West Virginia,New Haven,True,False,True,False,False,False,True,True
+Mississippi,Edgewood,True,True,True,False,True,True,True,False
+Texas,Little Rock,False,False,True,False,False,False,True,False
+Louisiana,Vallejo,True,False,False,False,True,False,False,False
+Illinois,San Diego,False,False,True,False,True,True,True,False
+Kentucky,Utica,False,False,False,False,True,False,True,True
+Delaware,Hayward,True,True,True,False,True,True,False,False
+Florida,Utica,False,False,False,False,True,False,False,False
+Texas,Fontana,False,False,False,False,True,False,False,False
+Rhode Island,Clarksville,True,False,False,False,False,False,False,False
+North Carolina,Hollywood,True,False,True,True,False,False,True,True
+Alaska,Rio Rancho,True,False,False,False,False,False,False,False
+Arkansas,Anna,True,True,True,True,True,False,True,False
+Indiana,Santa Ana,True,False,True,False,True,True,False,False
+Rhode Island,Beaumont,True,False,True,False,True,False,False,False
+Nebraska,Sterling Heights,False,False,False,False,True,False,True,True
+Alaska,Atlanta,True,True,True,False,True,True,True,False
+Texas,Albuquerque,True,True,True,False,True,False,True,True
+Kansas,Toledo,False,False,False,False,True,True,False,False
+New Hampshire,Tulsa,True,True,True,True,True,True,True,False
+Wyoming,Worcester,True,True,False,False,False,False,True,False
+Colorado,Waco,False,False,False,False,False,False,True,True
+West Virginia,Sacramento,False,False,True,False,False,False,False,False
+Georgia,Independence,True,True,True,True,True,False,False,False
+Virginia,Davenport,False,False,True,True,True,False,True,True
+New York,Tyler,True,True,False,False,False,False,True,True
+Alabama,Dumas,True,True,True,False,False,False,False,False
+Missouri,Memphis,True,True,True,True,False,False,False,False
+North Carolina,Newport News,False,False,False,False,False,False,False,False
+Montana,Reno,False,False,False,False,True,True,False,False
+Florida,Seattle,True,False,False,False,False,False,True,True
+Missouri,Gainesville,False,False,False,False,True,True,False,False
+Louisiana,Richmond,False,False,False,False,True,False,False,False
+Kentucky,Mckinney,True,True,False,False,False,False,True,True
+Texas,New York,True,True,True,False,False,False,False,False
+North Dakota,West Covina,True,False,False,False,True,True,True,False
+Vermont,Mesa,True,True,True,False,False,False,True,False
+Nevada,Yakima,True,False,False,False,False,False,True,True
+Mississippi,Fountain Valley,True,True,True,False,True,True,False,False
+Alabama,Fayetteville,False,False,False,False,True,False,False,False
+Pennsylvania,Norwalk,True,True,False,False,True,False,True,True
+Idaho,Los Lunas,False,False,False,False,False,False,False,False
+California,Salem,False,False,False,False,True,False,False,False
+Minnesota,Fontana,True,False,True,True,False,False,False,False
+Arizona,Tempe,False,False,False,False,False,False,False,False
+South Dakota,Grand Prairie,False,False,False,False,True,False,False,False
+New Hampshire,Nampa,True,False,True,True,False,False,True,True
+Massachusetts,Gilbert,True,True,False,False,True,False,True,False
+Missouri,Minneapolis,True,False,False,False,True,True,True,False
+West Virginia,Memphis,False,False,False,False,False,False,False,False
+Florida,Athens,False,False,False,False,False,False,True,True
+Minnesota,Round Rock,True,True,True,False,False,False,True,True
+Florida,Broken Arrow,False,False,True,True,False,False,True,False
+North Dakota,Eureka,True,True,False,False,False,False,True,False
+New Mexico,Jersey City,True,False,True,True,True,True,True,False
+Kansas,Carlsbad,True,False,True,True,False,False,False,False
+Utah,Pueblo,False,False,False,False,False,False,True,False
+Florida,Iowa Park,True,False,True,True,False,False,True,True
+Colorado,Tampa,False,False,True,True,True,False,False,False
+Alaska,Waxahachie,False,False,True,True,True,False,True,True
+Georgia,Manchester,True,False,False,False,False,False,False,False
+South Carolina,Helena,True,True,False,False,False,False,False,False
+Massachusetts,San Bernardino,False,False,True,True,False,False,True,True
+Maryland,Elgin,True,True,False,False,False,False,True,False
+North Dakota,Great Falls,False,False,True,True,True,False,False,False
+New Mexico,Boulder,True,True,False,False,True,True,True,False
+Texas,Grand Rapids,True,True,True,False,False,False,False,False
+Louisiana,Grand Rapids,True,False,True,True,False,False,True,False
+California,Buffalo,False,False,False,False,True,True,True,False
+South Dakota,Shiloh,True,False,False,False,False,False,True,False
+Iowa,Bernalillo,True,True,False,False,False,False,False,False
+Illinois,Providence,False,False,False,False,False,False,False,False
+Rhode Island,Worcester,False,False,True,True,True,False,False,False
+Utah,Carrollton,False,False,False,False,True,False,True,False
+Maryland,Red Bluff,False,False,False,False,False,False,True,False
+New Jersey,Fort Collins,False,False,False,False,False,False,True,False
+Missouri,Edison,True,False,False,False,False,False,True,True
+Washington,Fort Collins,True,True,True,True,True,False,False,False
+Florida,Bueblo,True,True,False,False,True,True,True,True
+Texas,Garden Grove,True,False,False,False,True,False,False,False
+Georgia,Garland,False,False,False,False,False,False,True,False
+Oregon,North Las Vegas,True,False,True,True,False,False,True,True
+Missouri,Peoria,False,False,False,False,False,False,False,False
+Hawaii,Salem,True,True,False,False,True,False,False,False
+Oregon,Elk Grove,True,False,True,True,True,True,False,False
+Oklahoma,Wichita Falls,False,False,True,True,True,True,False,False
+North Carolina,Thousand Oaks,False,False,False,False,True,True,True,True
+Utah,Ann Arbor,True,True,True,False,False,False,True,True
+Kentucky,Minneapolis,True,False,False,False,True,False,True,True
+Washington,Long Beach,False,False,False,False,False,False,False,False
+Virginia,Elko,False,False,False,False,False,False,True,True
+Oregon,North Valley,True,True,False,False,True,False,False,False
+Missouri,El Paso,False,False,False,False,False,False,False,False
+New York,Iowa Park,True,True,False,False,False,False,True,False
+Pennsylvania,Frisco,False,False,False,False,False,False,False,False
+California,San Antonio,False,False,False,False,True,False,True,False
+New York,Kansas City,False,False,False,False,True,False,True,True
+Michigan,Sterling Heights,False,False,False,False,False,False,False,False
+Texas,Tallahassee,False,False,False,False,False,False,False,False
+Alaska,West Valley City,False,False,False,False,True,True,True,False
+Alaska,Orlando,False,False,False,False,True,False,True,True
+Arkansas,Athens,False,False,True,True,True,True,True,True
+Kansas,Red Bluff,False,False,False,False,False,False,True,False
+Alabama,Houston,False,False,False,False,True,True,False,False
+Wyoming,Frederick,True,False,False,False,True,True,False,False
+Texas,Ironville,False,False,False,False,True,False,True,False
+Alabama,Addison,True,False,False,False,False,False,False,False
+Minnesota,Pompano Beach,False,False,False,False,False,False,True,True
+Colorado,Cape Coral,False,False,True,False,False,False,False,False
+Oklahoma,Oakland,True,False,True,False,False,False,True,False
+Oregon,The Colony,False,False,False,False,True,True,False,False
+Florida,Seagoville,False,False,True,True,True,True,False,False
+West Virginia,Fort Lauderdale,False,False,False,False,False,False,True,True
+Georgia,Norwalk,True,True,False,False,False,False,False,False
+Arizona,South Bend,True,True,False,False,False,False,True,False
+Indiana,Simi Valley,False,False,False,False,False,False,False,False
+Idaho,Overland Park,True,True,True,False,False,False,True,False
+New Jersey,Sunnyvale,False,False,False,False,True,True,True,True
+Ohio,Rockford,False,False,False,False,True,True,True,False
+Hawaii,Salinas,False,False,True,True,True,True,False,False
+Pennsylvania,Chesapeake,True,False,True,False,False,False,True,False
+Kansas,Hamsburg,True,True,False,False,False,False,False,False
+South Carolina,Brownsville,True,False,True,True,True,True,True,True
+California,Garden Grove,False,False,False,False,True,False,False,False
+New Hampshire,Lowell,False,False,False,False,True,False,True,True
+Vermont,Lewiston,False,False,True,True,False,False,True,True
+Texas,Stockton,False,False,False,False,False,False,False,False
+Iowa,Wichita,False,False,True,True,True,True,False,False
+Maryland,West Jordan,True,True,False,False,False,False,True,False
+Wisconsin,Edison,True,True,False,False,True,False,False,False
+Utah,Mobile,True,True,True,False,False,False,True,True
+Florida,Boise,False,False,True,True,True,False,False,False
+Maryland,Rochester,False,False,True,False,True,True,False,False
+Massachusetts,Iowa Park,True,True,True,True,True,True,True,False
+Oklahoma,Knoxville,True,False,False,False,False,False,False,False
+North Carolina,Albany,True,False,True,False,False,False,True,False
+Kansas,Provo,False,False,True,True,True,False,True,False
+Louisiana,Winston–Salem,False,False,True,False,True,False,False,False
+Hawaii,Odessa,False,False,True,False,True,True,False,False
+Indiana,Jersey City,True,False,False,False,True,False,False,False
+Wyoming,Omaha,False,False,False,False,False,False,True,False
+Nebraska,Ventura,True,False,False,False,False,False,False,False
+Oregon,Miami,False,False,False,False,True,False,False,False
+Minnesota,Miami Gardens,True,False,False,False,True,True,False,False
+Virginia,Odessa,False,False,False,False,False,False,True,True
+New Mexico,Lewiston,False,False,False,False,False,False,True,False
+Massachusetts,Thornton,True,False,True,False,False,False,False,False
+Montana,Washington,False,False,True,True,False,False,True,False
+Nebraska,Simi Valley,True,False,False,False,False,False,False,False
+Maryland,South Bend,False,False,False,False,False,False,False,False
+Pennsylvania,Killeen,False,False,True,True,False,False,True,False
+Nevada,Las Cruces,True,False,False,False,False,False,True,False
+Vermont,El Monte,False,False,True,True,True,True,False,False
+California,Edison,False,False,False,False,True,True,False,False
+Delaware,West Jordan,True,False,False,False,True,False,True,True
+Kentucky,Redding,True,True,True,True,False,False,True,True
+Wisconsin,York,False,False,False,False,True,True,True,False
+South Dakota,Sacramento,False,False,False,False,False,False,True,False
+Connecticut,Irvine,True,False,True,True,False,False,True,True
+Michigan,Frisco,True,False,True,True,False,False,False,False
+Montana,Victorville,True,False,False,False,False,False,False,False
+Minnesota,Detroit,False,False,False,False,True,True,True,False
+Alaska,Dumas,True,False,True,False,True,True,False,False
+New Hampshire,Wichita Falls,False,False,False,False,False,False,False,False
+New Hampshire,Omaha,False,False,True,False,True,False,False,False
+Mississippi,Seattle,False,False,True,True,True,True,True,True
+Utah,Nashville,False,False,False,False,True,False,False,False
+West Virginia,Grand Prairie,True,False,False,False,False,False,False,False
+Louisiana,Santa Rosa,True,True,False,False,True,False,True,False
+Oklahoma,Westminster,True,False,False,False,False,False,True,False
+Texas,Stamford,False,False,False,False,True,True,True,False
+Ohio,Seagoville,False,False,False,False,True,False,True,True
+Rhode Island,Warren,True,True,True,True,False,False,False,False
+Arizona,Seattle,True,True,False,False,False,False,True,True
+Massachusetts,Pasadena,True,False,True,True,False,False,False,False
+Michigan,Lansing,True,True,True,True,False,False,False,False
+Alaska,Surprise,False,False,False,False,True,False,True,False
+Wisconsin,Shiloh,True,True,False,False,True,True,False,False
+Georgia,Hartford,True,True,False,False,True,False,True,True
+Nebraska,Waxahachie,False,False,False,False,False,False,True,False
+Arizona,Washington,True,True,False,False,True,False,True,True
+Maryland,Altoona,False,False,True,False,True,False,True,True
+Wisconsin,Waterbury,True,True,True,False,True,True,False,False
+New York,Honolulu,True,True,True,True,False,False,True,True
+Connecticut,Palmdale,False,False,True,False,False,False,True,True
+Louisiana,Irvine,False,False,False,False,True,False,False,False
+New Mexico,Torrance,False,False,False,False,True,False,False,False
+California,Arvada,False,False,False,False,False,False,False,False
+South Carolina,El Paso,True,False,False,False,True,True,True,False
+Illinois,Murfreesboro,True,True,True,False,True,True,False,False
+Idaho,Albuquerque,False,False,True,False,True,True,True,False
+Massachusetts,Waco,True,False,False,False,True,False,True,False
+Montana,Carlsbad,True,True,True,False,False,False,False,False
+Tennessee,Flowermound,False,False,True,False,True,True,True,True
+Missouri,Portland,False,False,False,False,True,True,True,False
+New Hampshire,St. Petersburg,False,False,True,True,False,False,False,False
+South Dakota,Lowell,True,False,False,False,True,True,True,True
+North Carolina,Henderson,False,False,True,True,False,False,False,False
+Hawaii,Raleigh,True,False,True,True,False,False,False,False
+Delaware,Palm Bay,False,False,False,False,True,True,False,False
+Connecticut,Elko,False,False,False,False,True,False,False,False
+Minnesota,Daly City,False,False,True,True,True,True,True,False
+Wisconsin,Wichita,True,True,True,False,False,False,False,False
+Colorado,Madison,True,False,True,True,False,False,True,False
+Arkansas,Cape Fear,True,True,True,False,True,True,False,False
+New York,Broken Arrow,False,False,False,False,False,False,True,True
+Illinois,Seymour,True,True,False,False,False,False,True,False
+Illinois,Wichita,True,True,True,False,True,True,False,False
+Illinois,Baltimore,True,False,True,True,False,False,True,False
+Minnesota,Yakima,False,False,True,False,False,False,True,True
+Missouri,Redding,False,False,False,False,False,False,False,False
+Nebraska,El Cajon,False,False,False,False,True,False,True,False
+Maryland,Mesa,False,False,False,False,True,True,False,False
+Louisiana,Greensboro,False,False,False,False,False,False,False,False
+Louisiana,Fairfield,False,False,True,False,False,False,True,True
+Utah,Yakima,False,False,False,False,False,False,False,False
+Minnesota,Boston,False,False,True,True,False,False,True,False
+Rhode Island,Flint,False,False,False,False,False,False,False,False
+Washington,Columbus,False,False,False,False,True,False,False,False
+Connecticut,Los Angeles,False,False,False,False,True,True,True,True
+North Dakota,Tallahassee,True,False,False,False,True,True,True,True
+North Carolina,Fargo,False,False,False,False,False,False,False,False
+South Dakota,Burkburnett,True,True,True,True,False,False,True,True
+Iowa,Fort Worth,False,False,True,True,False,False,False,False
+Nevada,Indianapolis,False,False,True,True,True,False,False,False
+New York,Stockton,True,False,False,False,False,False,False,False
+Illinois,Fort Wayne,True,False,False,False,True,False,True,True
+New Hampshire,Providence,True,False,True,True,True,True,True,False
+New Hampshire,Downey,False,False,True,False,False,False,False,False
+Iowa,El Cajon,True,False,False,False,False,False,False,False
+Hawaii,Pompano Beach,False,False,True,True,True,True,True,True
+Utah,Athens,False,False,False,False,False,False,False,False
+Delaware,Toledo,True,False,False,False,False,False,True,False
+Texas,Flowermound,False,False,False,False,False,False,True,False
+Illinois,Anaheim,False,False,False,False,False,False,False,False
+Kansas,Ironville,False,False,True,False,True,False,True,False
+Louisiana,Lubbock,False,False,False,False,False,False,False,False
+North Dakota,Rochester,False,False,False,False,False,False,False,False
+Illinois,Cincinnati,False,False,False,False,True,True,True,True
+Maine,Phoenix,False,False,True,True,False,False,True,True
+New York,Eugene,True,False,True,True,False,False,False,False
+California,Bozeman,False,False,True,False,True,True,False,False
+Maryland,Elgin,True,True,False,False,False,False,True,False
+Iowa,Grapevine,False,False,True,False,True,False,False,False
+Vermont,Stockton,False,False,True,True,True,False,True,True
+Colorado,Gresham,False,False,True,True,True,False,False,False
+Connecticut,Vernon,True,False,False,False,True,True,False,False
+South Dakota,Overland Park,False,False,False,False,True,True,True,False
+Nevada,Warren,True,True,False,False,False,False,False,False
+West Virginia,Ennis,True,True,True,False,True,False,True,False
+Maryland,Roseville,True,True,True,False,False,False,False,False
+Louisiana,Temecula,False,False,True,True,True,True,True,False
+Massachusetts,Palmdale,True,False,False,False,True,False,True,True
+Iowa,Richmond,False,False,True,True,False,False,False,False
+New Hampshire,Riverside,False,False,True,True,False,False,False,False
+Arizona,Irving,True,False,False,False,True,True,False,False
+Texas,Lewisville,False,False,False,False,True,False,False,False
+California,Long Beach,False,False,True,True,True,True,True,False
+Colorado,West Covina,False,False,True,True,True,True,True,False
+Arizona,Irving,False,False,False,False,False,False,True,True
+Hawaii,Stanley,False,False,True,False,False,False,False,False
+Kansas,Rancho Cucamonga,True,False,False,False,True,False,False,False
+New Mexico,Elko,True,True,True,True,True,False,False,False
+Georgia,Detroit,False,False,False,False,True,True,False,False
+Connecticut,Broken Arrow,False,False,True,True,True,False,True,True
+Nevada,Daly City,True,True,False,False,True,False,True,False
+Massachusetts,Elizabeth,True,False,False,False,False,False,True,True
+Texas,Saginaw,False,False,False,False,True,True,True,True
+Missouri,Anchorage,False,False,True,False,False,False,True,False
+Oklahoma,Palmdale,True,True,True,False,True,False,True,False
+Kansas,Jacksonville,False,False,True,True,False,False,False,False
+New Jersey,Houston,True,True,True,False,True,False,False,False
+Connecticut,Oxnard,True,True,True,True,True,True,False,False
+Delaware,Hartford,False,False,False,False,True,False,False,False
+Florida,Salem,False,False,True,False,False,False,True,False
+Oklahoma,San Francisco,False,False,False,False,True,False,False,False
+Michigan,Salt Lake City,True,False,False,False,True,True,False,False
+Tennessee,Colorado Springs,True,False,False,False,False,False,False,False
+Tennessee,Grants Pass,True,True,True,True,True,True,True,True
+Massachusetts,Fremont,False,False,False,False,True,False,False,False
+Nebraska,Red Oak,True,False,False,False,True,False,True,False
+Iowa,Shiloh,False,False,False,False,False,False,False,False
+Virginia,Scottsdale,False,False,False,False,True,False,False,False
+North Carolina,Grapevine,True,True,True,False,True,True,True,False
+Massachusetts,Chula Vista,True,True,True,False,False,False,True,True
+Colorado,Akron,True,False,True,False,True,True,True,False
+California,Odessa,True,False,False,False,True,True,False,False
+Colorado,Helena,True,True,False,False,False,False,False,False
+Michigan,Oakland,False,False,False,False,False,False,True,False
+Montana,Lincoln,True,True,True,False,False,False,True,True
+Wisconsin,Augusta,False,False,True,False,False,False,True,False
+Arkansas,Topeka,False,False,True,False,False,False,False,False
+New Mexico,Pompano Beach,False,False,True,False,True,True,True,False
+Ohio,Iowa Park,True,True,True,False,False,False,False,False
+Connecticut,Allen,True,False,True,True,True,True,False,False
+New Jersey,Broken Arrow,True,False,True,False,False,False,True,False
+Pennsylvania,Baton Rouge,False,False,False,False,True,False,True,True
+Delaware,Moscow,True,False,False,False,True,True,False,False
+Wisconsin,Desoto,False,False,False,False,False,False,False,False
+Utah,Baton Rouge,True,False,True,True,True,True,False,False
+Colorado,Irvine,True,True,True,True,False,False,True,True
+Hawaii,Grand Prairie,True,True,False,False,True,True,False,False
+Kentucky,Minneapolis,False,False,False,False,False,False,True,True
+Montana,Carrollton,False,False,False,False,True,False,True,False
+Idaho,Dumas,True,False,True,True,True,False,False,False
+Colorado,Iowa Park,False,False,False,False,True,False,False,False
+South Carolina,Santa Clara,False,False,False,False,True,False,True,True
+New Mexico,Colorado Springs,True,True,False,False,True,True,False,False
+Illinois,Denton,False,False,False,False,False,False,False,False
+Arizona,Red Bluff,False,False,False,False,True,False,True,True
+Florida,Spokane,True,False,True,True,False,False,True,True
+Missouri,Cupertino,False,False,False,False,True,False,True,True
+Alaska,Stanley,False,False,True,False,True,True,True,False
+Maryland,Fresno,False,False,True,False,False,False,True,False
+Rhode Island,Richardson,True,False,False,False,False,False,True,False
+Wisconsin,Downey,True,True,False,False,False,False,True,True
+West Virginia,Philadelphia,True,True,False,False,False,False,False,False
+Illinois,Bridgeport,False,False,True,False,True,False,True,False
+Hawaii,Green Bay,False,False,True,False,True,False,True,True
+North Carolina,Riverside,False,False,True,True,False,False,True,False
+Georgia,Kansas City,True,False,True,True,True,False,True,True
+New Hampshire,Van Alstyne,True,False,False,False,True,False,True,False
+Georgia,Frisco,True,False,False,False,True,True,False,False
+Kentucky,Cape Coral,False,False,True,False,True,False,True,False
+Tennessee,Joliet,True,False,False,False,True,False,True,True
+Florida,Oceanside,False,False,True,True,False,False,True,False
+Oregon,Phoenix,False,False,False,False,True,False,True,True
+New Mexico,Coral Springs,True,True,False,False,False,False,True,True
+Nebraska,Irving,False,False,False,False,True,True,True,False
+South Dakota,Akron,True,True,False,False,False,False,True,True
+Florida,Pueblo,True,True,True,False,True,False,True,True
+Georgia,Temecula,False,False,True,False,True,True,True,False
+Florida,Provo,True,False,False,False,False,False,False,False
+Colorado,Edgewood,True,False,False,False,False,False,False,False
+Hawaii,Birmingham,False,False,True,True,False,False,True,False
+Georgia,Lowell,True,False,False,False,True,False,False,False
+South Dakota,Pueblo,False,False,False,False,True,True,True,False
+South Dakota,Cleveland,True,True,True,True,True,True,False,False
+Arizona,Grand Rapids,True,True,True,True,False,False,False,False
+South Dakota,Independence,True,False,False,False,True,False,False,False
+North Dakota,Chicago,False,False,False,False,False,False,False,False
+West Virginia,Belen,True,False,False,False,True,False,False,False
+Texas,Corona,False,False,False,False,True,True,False,False
+Maryland,Alexandria,True,True,False,False,False,False,False,False
+New Jersey,Dayton,True,True,True,False,True,True,True,False
+Illinois,Medford,False,False,True,True,True,False,False,False
+Idaho,Duncanville,False,False,False,False,False,False,False,False
+Arkansas,West Palm Beach,False,False,True,True,True,True,False,False
+Hawaii,Fontana,False,False,True,False,True,True,False,False
+Massachusetts,North Las Vegas,False,False,False,False,False,False,True,True
+Nebraska,Rochester,True,False,True,True,True,True,True,False
+Alaska,Farmers Branch,True,True,True,False,True,False,False,False
+Minnesota,Huntington Beach,False,False,True,True,True,False,True,False
+Illinois,Lansing,False,False,False,False,True,False,False,False
+Pennsylvania,Inglewood,False,False,False,False,False,False,True,True
+Minnesota,Nashville,False,False,False,False,False,False,True,False
+Wisconsin,Cleveland,False,False,False,False,True,False,False,False
+Pennsylvania,Athens,True,True,True,False,False,False,True,True
+Missouri,Norfolk,True,False,False,False,False,False,True,False
+Colorado,Portland,True,False,False,False,False,False,False,False
+Alabama,Houston,False,False,False,False,True,False,True,True
+Alabama,Des Moines,False,False,False,False,False,False,False,False
+Tennessee,Paterson,False,False,True,True,False,False,True,True
+Kansas,Yonkers,False,False,True,True,False,False,False,False
+Hawaii,Wilmington,False,False,False,False,True,False,True,True
+Maine,Redding,False,False,True,True,True,False,False,False
+Rhode Island,Lakeland,True,True,True,False,True,False,False,False
+West Virginia,Jackson,False,False,True,True,True,True,False,False
+California,Tacoma,False,False,True,True,True,False,False,False
+Pennsylvania,Caldwell,True,True,False,False,True,True,False,False
